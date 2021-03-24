@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+input{
+  height: 30px;
+}
+hr{
+  background-color: black;
+}
+#mybtn{
+  border-radius: 10px;
+  background-color: cornflowerblue; 
+  width: 100px;
+  height: 30px
+}
